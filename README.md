@@ -20,7 +20,6 @@
  <img src=" https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
  </div>
- ##
 <div align="center">
 <a href="https://github.com/LeonardoGattermann">
 <img height="180em" src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs/?username=LeonardoGattermann&layout=compact&langs_count=7&theme=dracula"/>
