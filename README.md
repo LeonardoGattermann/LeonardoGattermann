@@ -8,7 +8,7 @@
 ### 📓 Sobre mim:
 <div display="inline-block">
  <p align="left">🎓 Sou aluno na <a href="https://kenzie.com.br/">Kenzie Academy</a>;</p>
- <p align="left">📚 Atualmente estudando TS & React;</p>
+ <p align="left">📚 Atualmente estudando Express e PostgreSQL;</p>
  <p align="left">⚙️Preferencias no Back-End</p>
 </div>
 
