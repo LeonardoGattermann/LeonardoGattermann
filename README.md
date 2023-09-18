@@ -5,8 +5,9 @@
 <a href="https://www.linkedin.com/in/leonardo-gattermann-b60a89263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-### 📓Sobre mim: Quando não estou codificando, estou provavelmente acariciando um gato ou tomando um café... ou ambos ao mesmo tempo!🐱
-<div display="inline-block">:
+### 📓Sobre mim
+<div display="inline-block">
+ <p align="left">🐱Quando não estou codificando, estou provavelmente acariciando um gato ou tomando um café... ou ambos ao mesmo tempo!</p>
  <p align="left">🎓 Sou aluno na <a href="https://kenzie.com.br/">Kenzie Academy</a>;</p>
  <p align="left">📚 Atualmente estudando Express e PostgreSQL;</p>
  <p align="left">⚙️Preferencias no Back-End</p>
