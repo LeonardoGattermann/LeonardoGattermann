@@ -11,7 +11,7 @@
  <p align="left">🎓 Sou aluno na <a href="https://kenzie.com.br/">Kenzie Academy</a>;</p>
  <p align="left">📚 Atualmente estudando Express e PostgreSQL;</p>
  <p align="left">⚙️Preferencias no Back-End</p>
- <p align="left">🐾 Metodologia de Trabalho: Eu sigo a metodologia "Café e Gato". Primeiro, um gole de café para despertar a criatividade. Depois, uma pausa para acariciar o gato e refletir sobre o código.</p>
+ <p align="left">🐾 Eu sigo a metodologia "Café e Gato". Primeiro, um gole de café para despertar a criatividade. Depois, uma pausa para acariciar o gato e refletir sobre o código.</p>
 </div>
 
 ### 🚀 Minhas Habilidades: 
