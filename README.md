@@ -21,6 +21,8 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
  </div>
 <div align="center">
 <a href="https://github.com/LeonardoGattermann">
