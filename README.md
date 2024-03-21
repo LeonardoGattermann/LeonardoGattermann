@@ -9,8 +9,6 @@
 <div display="inline-block">
  <p align="left">🚀 Sou formado em desenvolvimento full-stack e tenho ampla experiência em marketing digital.</p>
  <p align="left">🐱 Quando não estou codificando, estou provavelmente acariciando um gato ou tomando um café... ou ambos ao mesmo tempo!</p>
- <p align="left">🎓 Sou aluno na <a href="https://kenzie.com.br/">Kenzie Academy</a>;</p>
- <p align="left">📚 Atualmente estudando Express e PostgreSQL;</p>
  <p align="left">⚙️Preferências no Back-End;</p>
  <p align="left">🐾 Eu sigo a metodologia "Café e Gato". Primeiro, um gole de café para despertar a criatividade. Depois, uma pausa para acariciar o gato e refletir sobre o código.</p>
 </div>
@@ -22,6 +20,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
  </div>
 <div align="center">
 <a href="https://github.com/LeonardoGattermann">
