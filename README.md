@@ -28,5 +28,4 @@
 <a href="https://github.com/LeonardoGattermann">
 <img height="180em" src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs/?username=LeonardoGattermann&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats-brown-theta.vercel.app/api?username=LeonardoGattermann&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
-<img src="https://github.com/LeonardoGattermann/LeonardoGattermann/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
