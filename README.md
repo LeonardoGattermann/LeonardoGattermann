@@ -8,7 +8,7 @@
 ### 📓Sobre mim
 <div display="inline-block">
  <p align="left">🚀 Sou formado em desenvolvimento full-stack e tenho ampla experiência em marketing digital.</p>
- <p align="left">🐱 Quando não estou codificando, estou provavelmente acariciando um gato ou tomando um café... ou ambos ao mesmo tempo!</p>
+ <p align="left">🐱 Quando não estou Codando, estou provavelmente acariciando um gato ou tomando um café... ou ambos ao mesmo tempo!</p>
  <p align="left">⚙️Preferências no Back-End;</p>
  <p align="left">🐾 Eu sigo a metodologia "Café e Gato". Primeiro, um gole de café para despertar a criatividade. Depois, uma pausa para acariciar o gato e refletir sobre o código.</p>
 </div>
