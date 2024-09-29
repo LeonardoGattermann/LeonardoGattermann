@@ -12,18 +12,18 @@
 </div>
 
 ### 🚀 Minhas Habilidades: 
-<div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="margin-right: 10px"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="margin-right: 10px"/>
+<div align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="HTML5" width="50" height="50" style="margin-right: 10px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="CSS3" width="50" height="50" style="margin-right: 10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="Node.js" width="50" height="50" style="margin-right: 10px"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="Python" width="50" height="50" style="margin-right: 10px"/>
  </div>
 <div align="center">
 <a href="https://github.com/LeonardoGattermann">
-<img height="180em" src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs/?username=LeonardoGattermann&layout=compact&langs_count=7&theme=dracula"/>
+<!-- <img height="180em" src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs/?username=LeonardoGattermann&layout=compact&langs_count=7&theme=dracula"/> -->
 <img height="180em" src="https://github-readme-stats-brown-theta.vercel.app/api?username=LeonardoGattermann&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
 </div>
