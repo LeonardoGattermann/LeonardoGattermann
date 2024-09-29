@@ -1,4 +1,4 @@
-# Leonardo Gattermann 
+# Leonardo Gattermann <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeonardoGattermann&count_bg=%2379C83D&title_bg=%23555555&icon=airplayvideo.svg&icon_color=%2300FF2D&title=Visitantes&edge_flat=false"/></a>
 <div>
 <a href="mailto:Leo.gahdkelq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leonardo-gattermann-b60a89263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -28,4 +28,3 @@
 <!-- <img height="180em" src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs/?username=LeonardoGattermann&layout=compact&langs_count=7&theme=dracula"/> -->
 <img height="180em" src="https://github-readme-stats-brown-theta.vercel.app/api?username=LeonardoGattermann&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
 </div>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=LeonardoGattermann.LeonardoGattermann)
