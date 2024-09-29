@@ -28,3 +28,4 @@
 <!-- <img height="180em" src="https://github-readme-stats-brown-theta.vercel.app/api/top-langs/?username=LeonardoGattermann&layout=compact&langs_count=7&theme=dracula"/> -->
 <img height="180em" src="https://github-readme-stats-brown-theta.vercel.app/api?username=LeonardoGattermann&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
 </div>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=LeonardoGattermann.LeonardoGattermann)
