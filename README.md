@@ -8,7 +8,7 @@
 <div display="inline-block">
  <p align="left">🚀 Sou formado em desenvolvimento full-stack e tenho ampla experiência em marketing digital.</p>
  <p align="left">🐱Amante de gatos e café, sempre buscando equilibrar produtividade e bem-estar. </p>
- <p align="left">⚙️Back-End é minha especialidade, mas sou versátil!</p>
+ <p align="left">⚙️Back-End é minha preferência, mas sou muito versátil!</p>
  <p align="left">👨‍💻 Experiente em projetos colaborativos e na gestão independente de múltiplos projetos.</p>
 </div>
 
