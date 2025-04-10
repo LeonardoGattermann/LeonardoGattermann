@@ -1,4 +1,4 @@
-# Leonardo Gattermann <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLeonardoGattermann&count_bg=%2379C83D&title_bg=%23555555&icon=airplayvideo.svg&icon_color=%2300FF2D&title=Visitantes&edge_flat=false"/></a>
+# Leonardo Gattermann
 <div>
 <a href="mailto:Leo.gahdkelq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/leonardo-gattermann-b60a89263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
